@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bd8c05-5c55-4a13-891a-8f3acc8047bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hjsUz2A7ICX236ONRHNhVtOpbk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ja/CHAT_Helen" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson13.list" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin-PC\IdeaProjects\ProffitProjects\src\lesson19" />
+      <recent name="C:\Users\Admin-PC\IdeaProjects\ProffitProjects\src\kar" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson16" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson8.Main" />
+      <module name="ProffitProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.Main" />
+      <module name="ProffitProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.Main" />
+      <module name="ProffitProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Main" />
+      <module name="ProffitProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAndWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson13and14and22.UserAndWork" />
+      <module name="ProffitProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson13and14and22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserAndWork" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5bd8c05-5c55-4a13-891a-8f3acc8047bb" name="Default Changelist" comment="" />
+      <created>1600535858398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600535858398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1605100600418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1605100600418" />
+    <state x="275" y="22" key="#Servers" timestamp="1605255839400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1605255839400" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604386668636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604386668636" />
+    <state x="455" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610783925015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610783925015" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1605101976848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605101976848" />
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604387038288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="249" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1604387038288" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604407498126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604407498126" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604755358538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604755358538" />
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom" timestamp="1610789566476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610789566476" />
+    <state width="1323" height="173" key="GridCell.Tab.0.center" timestamp="1610789566476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610789566476" />
+    <state width="1323" height="173" key="GridCell.Tab.0.left" timestamp="1610789566476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610789566476" />
+    <state width="1323" height="173" key="GridCell.Tab.0.right" timestamp="1610789566476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610789566476" />
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom" timestamp="1605102798160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605102798160" />
+    <state width="1323" height="263" key="GridCell.Tab.1.center" timestamp="1605102798160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605102798160" />
+    <state width="1323" height="263" key="GridCell.Tab.1.left" timestamp="1605102798160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605102798160" />
+    <state width="1323" height="263" key="GridCell.Tab.1.right" timestamp="1605102798160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="263" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605102798160" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1604758899747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604758899747" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604817092630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1604817092630" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1605251478411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605251478411" />
+    <state x="65" y="0" key="new project wizard" timestamp="1604817042237">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604817042237" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1610787322079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1610787322079" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610786593855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610786593855" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kar/c/UserAndBook.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myGenerics/MainHelene.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
